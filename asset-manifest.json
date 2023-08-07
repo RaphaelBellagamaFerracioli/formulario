@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formulario/static/css/main.7611db34.css",
+    "main.js": "/formulario/static/js/main.acb14619.js",
+    "static/js/787.dad5aad2.chunk.js": "/formulario/static/js/787.dad5aad2.chunk.js",
+    "index.html": "/formulario/index.html",
+    "main.7611db34.css.map": "/formulario/static/css/main.7611db34.css.map",
+    "main.acb14619.js.map": "/formulario/static/js/main.acb14619.js.map",
+    "787.dad5aad2.chunk.js.map": "/formulario/static/js/787.dad5aad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7611db34.css",
+    "static/js/main.acb14619.js"
+  ]
+}
